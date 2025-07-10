@@ -14,6 +14,7 @@ A lightweight prototype that leverages Google’s Gemini 1.5 Pro LLM to generate
 - 📤 Exports reports in `.txt`, `.docx`, and `.pdf` formats
 - 🌐 Unicode support using `fpdf2` and DejaVuSans font
 
+
 ---
 
 ## Use Cases
@@ -85,6 +86,8 @@ python report_writer.py
 ```
 
 Visit `http://localhost:8808` to use the app in your browser.
+
+
 
 ---
 
